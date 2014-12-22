@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A maruell, decipheredHelwys, Edward.1589Approx. 35 KB of XML-encoded text transcribed from 13 1-bit 
+
+1. To the Right Honorable, my very good Lord: Henrie Carey, Baron of Hunſdon: Knight of the moſt noble Order of the Garter: Lorde Chamberlaine of her Maieſties moſt Honorable Houſhold: Lord Gouernour of Barwicke: Lord Warden of the Eaſt Marches for an anempſt Scotland: Lord Lieftenant of Suffolke and Norfolke: Captaine of her Maieſties Gentlemen Penſioners, and one of hir Highnes moſt Honourable priuie Counſell.
+
 #####Body#####
-A maruell, decipheredHelwys, Edward.1589Approx. 35 KB of XML-encoded text transcribed from 13 1-bit 
+
+1. A NOTE OF ſtrange things mentioned of a Woman conteined in the 12. Chapter of the Reuelation of Saint Iohn.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
